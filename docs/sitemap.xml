@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:news="http://www.google.com/schemas/sitemap-news/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:mobile="http://www.google.com/schemas/sitemap-mobile/1.0" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+<url> <loc>https://harshmakadia.github.io/case-studies/react-context-vs-redux</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://harshmakadia.github.io/blog/quick-walkthrough-to-the-new-es6-syntax-making-developers-job-easy</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://harshmakadia.github.io/blog/create-and-deploy-chatbots-in-minutes-with-google-sheets-using-wotnot</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://harshmakadia.github.io/blog/get-started-with-rpa-robotics-process-automation-and-its-tools</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://harshmakadia.github.io/blog/alertly-an-easier-way-to-use-jira-with-slack</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://harshmakadia.github.io/blog/welcome-to-the-bots-era</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://harshmakadia.github.io/blog/meet-azure-logic-apps-to-know-its-amazing-benefits</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://harshmakadia.github.io/blog/an-introduction-to-react-hooks</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://harshmakadia.github.io/blog/machine-learning-basics-its-your-cup-of-tea</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://harshmakadia.github.io/blog/why-react16-is-a-blessing-to-react-developers</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://harshmakadia.github.io/blog/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://harshmakadia.github.io/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+</urlset>

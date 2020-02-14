@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+Sitemap: https://harshmakadia.github.io/sitemap.xml
+Host: https://harshmakadia.github.io
